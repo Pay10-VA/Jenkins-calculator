@@ -62,7 +62,6 @@ class Calculator {
         return Integer.toBinaryString(n);
     }
 
-    debugging
 
     /*
     Create a completely unique String identifier for a given string
